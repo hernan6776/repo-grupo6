@@ -1,0 +1,8 @@
+
+nav, main {
+    background-color: blue;
+}
+
+h2, nav, p {
+    color: white
+}
